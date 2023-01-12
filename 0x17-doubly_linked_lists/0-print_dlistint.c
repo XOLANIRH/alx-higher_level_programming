@@ -2,7 +2,7 @@
 /**
  * print_dlistint - Prints all the nodes of ll
  * @h: Is the pointer to node structure
- * Return: the amount of nodes
+ * Return: the amount of nodes in the dl
  */
 size_t print_dlistint(const dlistint_t *h)
 {
